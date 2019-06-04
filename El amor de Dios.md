@@ -1,4 +1,10 @@
-#Title: El amor de Dios/n##Author: Popular/n##Rythm: Alabanza/n##Tempo: 60/n##lyrics:/nEL amor de dios es maravilloso
+#Title: El amor de Dios
+##Author: Popular
+##Rythm: Alabanza
+##Tempo: 60
+##Lyrics:
 EL amor de dios es maravilloso
 EL amor de dios es maravilloso
-Grande es el amor de Dios##URL: 
+EL amor de dios es maravilloso
+Grande es el amor de Dios
+##URL: 
