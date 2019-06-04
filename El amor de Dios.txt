@@ -1,1 +1,1 @@
-[object Blob]
+{"title":"El amor de Dios","author":"Popular","rythm":"Alabanza","tempo":"60","lyrics":"El amor de Dios es maravilloso","url":""}
