@@ -1,1 +1,1 @@
-{"title":"El amor de Dios","author":"Popular","rythm":"Alabanza","tempo":"60","lyrics":"El amor de Dios es maravilloso","url":""}
+{"title":"El amor de Dios","author":"Popular","rythm":"Alabanza","tempo":"60","lyrics":"EL amor de dios es maravilloso\nEL amor de dios es maravilloso\nEL amor de dios es maravilloso\nGrande es el amor de Dios","url":""}
