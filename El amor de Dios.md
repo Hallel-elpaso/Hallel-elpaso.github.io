@@ -3,12 +3,14 @@
 #### Rythm: Alabanza
 #### Tempo: 75
 ## Lyrics:
-EL amor de dios es maravilloso
-
-EL amor de dios es maravilloso
-
-EL amor de dios es maravilloso
-
+INTRO: A (4 tiempos)
+.A                           E
+El amor de dios es maravilloso
+.        E                   A
+El amor de dios es maravilloso
+.             A7            D  Dm
+El amor de dios es maravilloso
+.     A         E        A    
 Grande es el amor de Dios
 
 Tan alto que no puede estar arriba de El
