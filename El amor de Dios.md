@@ -1,12 +1,12 @@
 # Title: El amor de Dios
 
-## Author: Popular
+#### Author: Popular
 
-## Rythm: Alabanza
+#### Rythm: Alabanza
 
-## Tempo: 60
+#### Tempo: 60
 
-## Lyrics:
+#### Lyrics:
 EL amor de dios es maravilloso
 
 EL amor de dios es maravilloso
@@ -16,4 +16,4 @@ EL amor de dios es maravilloso
 Grande es el amor de Dios
 
 
-## URL: 
+#### URL: 
